@@ -7,14 +7,14 @@ This is an array of jokes, containing 11 different jokes of various categories a
 
 **category**: The category of the joke (e.g. "Pun", "Dad Joke", "Animal", "Knock-Knock", "Tech", "Good").
 
-type: The type of the joke (currently only "single" is used).
+**type**: The type of the joke (currently only "single" is used).
 
-joke: The actual joke itself.
+**joke**: The actual joke itself.
 
-flags: An object containing boolean flags indicating whether the joke contains potentially offensive content (e.g. "nsfw", "religious", "political", "racist", "sexist", "explicit").
+**flags**: An object containing boolean flags indicating whether the joke contains potentially offensive content (e.g. "nsfw", "religious", "political", "racist", "sexist", "explicit").
 
-id: A unique identifier for the joke.
+**id**: A unique identifier for the joke.
 
-safe: A boolean indicating whether the joke is considered safe for work.
+**safe**: A boolean indicating whether the joke is considered safe for work.
 
-lang: The language of the joke (currently only "en" is used).
+**lang**: The language of the joke (currently only "en" is used).
