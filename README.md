@@ -18,3 +18,5 @@ This is an array of jokes, containing 11 different jokes of various categories a
 **safe**: A boolean indicating whether the joke is considered safe for work.
 
 **lang**: The language of the joke (currently only "en" is used).
+# Usage
+To use the website, simply click on the "**Generate Joke**" button. A random joke will be displayed on the page.
