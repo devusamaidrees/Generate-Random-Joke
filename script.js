@@ -1,8 +1,8 @@
-let jokes =[
+let jokes = [
     {
-        "category": "Dark",
+        "category": "Pun",
         "type": "single",
-        "joke": "My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.",
+        "joke": "I'm reading a book on anti-gravity. It's impossible to put down!",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -11,30 +11,14 @@ let jokes =[
             "sexist": false,
             "explicit": false
         },
-        "id": 152,
-        "safe": false,
+        "id": 163,
+        "safe": true,
         "lang": "en"
     },
     {
-        "category": "Dark",
+        "category": "Dad Joke",
         "type": "single",
-        "joke": "Nowadays people are so sensitive, you can't even say \"black paint\" anymore.\nInstead, you have to say \"Jamal, please paint the fence\".",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": true,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 133,
-        "safe": false,
-        "lang": "en"
-    },
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "I didn't vaccinate my 10 kids and the one that survived is fine!",
+        "joke": "Why don't eggs tell jokes? They'd crack each other up!",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -43,14 +27,14 @@ let jokes =[
             "sexist": false,
             "explicit": false
         },
-        "id": 96,
-        "safe": false,
+        "id": 164,
+        "safe": true,
         "lang": "en"
     },
     {
-        "category": "Dark",
+        "category": "Animal",
         "type": "single",
-        "joke": "My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, \"What am I supposed to do with two dead dogs?\"",
+        "joke": "Why don't oysters give to charity? Because they're shellfish!",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -59,94 +43,14 @@ let jokes =[
             "sexist": false,
             "explicit": false
         },
-        "safe": false,
-        "id": 275,
+        "id": 165,
+        "safe": true,
         "lang": "en"
     },
     {
-        "category": "Dark",
+        "category": "Knock-Knock",
         "type": "single",
-        "joke": "Hey girl are you a school? Because I want to shoot some kids up inside of you.",
-        "flags": {
-            "nsfw": true,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": true
-        },
-        "safe": false,
-        "id": 269,
-        "lang": "en"
-    },
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "Me and my Jewish friend were eating lunch and I farted. He got mad so I said \"cmon man a little gas never killed anyone\".",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": true,
-            "sexist": false,
-            "explicit": true
-        },
-        "id": 103,
-        "safe": false,
-        "lang": "en"
-    }, 
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "I was going to tell a dead baby joke. But I decided to abort.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": true
-        },
-        "id": 207,
-        "safe": false,
-        "lang": "en"
-    },
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "Dark humor is like food, not everyone gets it.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": true,
-            "sexist": false,
-            "explicit": true
-        },
-        "id": 162,
-        "safe": false,
-        "lang": "en"
-    },
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.",
-        "flags": {
-            "nsfw": true,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": true,
-            "explicit": true
-        },
-        "id": 228,
-        "safe": false,
-        "lang": "en"
-    },
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "My grandfather says I'm too reliant on technology.\nI called him a hypocrite and unplugged his life support.",
+        "joke": "Knock, knock. Who's there? Alpaca who? Alpaca the suitcase, you load up the car!",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -155,14 +59,14 @@ let jokes =[
             "sexist": false,
             "explicit": false
         },
-        "id": 178,
-        "safe": false,
+        "id": 166,
+        "safe": true,
         "lang": "en"
     },
     {
-        "category": "Dark",
+        "category": "Tech",
         "type": "single",
-        "joke": "My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.",
+        "joke": "Why do programmers prefer dark mode? Because light attracts bugs!",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -171,30 +75,14 @@ let jokes =[
             "sexist": false,
             "explicit": false
         },
-        "id": 152,
-        "safe": false,
+        "id": 167,
+        "safe": true,
         "lang": "en"
     },
     {
-        "category": "Dark",
+        "category": "Good",
         "type": "single",
-        "joke": "Nowadays people are so sensitive, you can't even say \"black paint\" anymore.\nInstead, you have to say \"Jamal, please paint the fence\".",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": true,
-            "sexist": false,
-            "explicit": false
-        },
-        "id": 133,
-        "safe": false,
-        "lang": "en"
-    },
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "I didn't vaccinate my 10 kids and the one that survived is fine!",
+        "joke": "Why did the tomato turn red? Because it saw the salad dressing!",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -203,14 +91,14 @@ let jokes =[
             "sexist": false,
             "explicit": false
         },
-        "id": 96,
-        "safe": false,
+        "id": 163,
+        "safe": true,
         "lang": "en"
     },
     {
-        "category": "Dark",
+        "category": "Good",
         "type": "single",
-        "joke": "My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, \"What am I supposed to do with two dead dogs?\"",
+        "joke": "What did one toilet say to the other toilet? You look a bit flushed.",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -219,94 +107,14 @@ let jokes =[
             "sexist": false,
             "explicit": false
         },
-        "safe": false,
-        "id": 275,
+        "id": 164,
+        "safe": true,
         "lang": "en"
     },
     {
-        "category": "Dark",
+        "category": "Good",
         "type": "single",
-        "joke": "Hey girl are you a school? Because I want to shoot some kids up inside of you.",
-        "flags": {
-            "nsfw": true,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": true
-        },
-        "safe": false,
-        "id": 269,
-        "lang": "en"
-    },
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "Me and my Jewish friend were eating lunch and I farted. He got mad so I said \"cmon man a little gas never killed anyone\".",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": true,
-            "sexist": false,
-            "explicit": true
-        },
-        "id": 103,
-        "safe": false,
-        "lang": "en"
-    },
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "I was going to tell a dead baby joke. But I decided to abort.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": false,
-            "explicit": true
-        },
-        "id": 207,
-        "safe": false,
-        "lang": "en"
-    },
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "Dark humor is like food, not everyone gets it.",
-        "flags": {
-            "nsfw": false,
-            "religious": false,
-            "political": false,
-            "racist": true,
-            "sexist": false,
-            "explicit": true
-        },
-        "id": 162,
-        "safe": false,
-        "lang": "en"
-    },
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.",
-        "flags": {
-            "nsfw": true,
-            "religious": false,
-            "political": false,
-            "racist": false,
-            "sexist": true,
-            "explicit": true
-        },
-        "id": 228,
-        "safe": false,
-        "lang": "en"
-    },
-    {
-        "category": "Dark",
-        "type": "single",
-        "joke": "My grandfather says I'm too reliant on technology.\nI called him a hypocrite and unplugged his life support.",
+        "joke": "What do you call a lazy kangaroo? A pouch potato!",
         "flags": {
             "nsfw": false,
             "religious": false,
@@ -315,13 +123,62 @@ let jokes =[
             "sexist": false,
             "explicit": false
         },
-        "id": 178,
-        "safe": false,
+        "id": 165,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Animal",
+        "type": "single",
+        "joke": "Why do cows have hooves instead of feet? Because they lactose.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 367,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Animal",
+        "type": "single",
+        "joke": "Why did the chicken cross the playground? To get to the other slide.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 365,
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Animal",
+        "type": "single",
+        "joke": "What do you call a sheep that can sing? A ewe-nique.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": 370,
+        "safe": true,
         "lang": "en"
     }
+
 ]
-let x=function () {
-    let a=Math.floor(Math.random() * jokes.length-1)
-    first.innerHTML=jokes[a].joke 
+let x = function () {
+    let a = Math.floor(Math.random() * jokes.length - 1)
+    first.innerHTML = jokes[a].joke
 }
-btn_id.addEventListener("click",x)
+btn_id.addEventListener("click", x)
